@@ -18,7 +18,7 @@ O código realiza previsões empíricas, paramétricas e baseadas em Simulação
 
 ## Pré-requisitos
 
-Para executar este código, você precisará do `R` instalado e dos seguintes pacotes:
+Para executar este código, é necessário realizar o download do banco de dados na plataforma Economática, além disso você precisará do `R` instalado e dos seguintes pacotes:
 
 ```R
 install.packages(c("tidyverse", "readxl", "quantmod", "stringr", "MASS", "ggplot2", "rugarch", "eva", "MSGARCH", "GAS"))
